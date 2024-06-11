@@ -1,11 +1,9 @@
-# Discord Bot Website Template! - Degisned and Made by Fury/Kacktide!
+# Discord Bot Website Template! - Degisned and Made by Caution!
 Looking for a good template for your discord bot's website? You're are at the perfect place! This is a copy of the website of the discord bot Dank Memer!
 Cool, Dark, Responsive and Beautiful looking website made with ❤️! [Live Demo](https://cautionexists.github.io/DankMemer-Web-Template/).
 
 *This is just a hobby project so it is not perfect but it gets the job done!*
 
-# 20 Stars = Commands Page with search! 
-This time it will happen 😁. Give this a ⭐ and give me a follow for more websites like this!
 
 # ✔️ Includes:
 > Mordern Design
@@ -73,7 +71,7 @@ This time it will happen 😁. Give this a ⭐ and give me a follow for more web
 
 
 ``` 
-git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
+git clone https://github.com/cautionexists/DankMemer-Web-Template
 ```
 
 
@@ -83,17 +81,15 @@ git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
 
 
  **SEO**
- 
-![image](https://github.com/Kacktide/discord-bot-website-template-dankmemer-design/assets/70317531/c01af4f4-b5a1-48d1-b511-987a95294c05)
+
 
  
  > How to edit(Steps)
   1. Go to `index.html`.
   2. Go to head and you can find a html comment for SEO / Embeded Links
   3. Replace the sample text to fit your needs!
-> Or go to [My Meta Tags Generator Page](https://kacktide.github.io/meta-tags-generator/) and replace the existing one 
 
-If you need any help you can contact via discord @kacktide.
+If you need any help you can contact via discord @cautionexists.
 
 Please give a ⭐ if you like this project. It's totally free and costs nothing!
 
