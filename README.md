@@ -1,6 +1,6 @@
 # Discord Bot Website Template! - Degisned and Made by Fury/Kacktide!
 Looking for a good template for your discord bot's website? You're are at the perfect place! This is a copy of the website of the discord bot Dank Memer!
-Cool, Dark, Responsive and Beautiful looking website made with ❤️! [Live Demo](https://kacktide.github.io/discord-bot-website-template-dankmemer-design/).
+Cool, Dark, Responsive and Beautiful looking website made with ❤️! [Live Demo](https://cautionexists.github.io/DankMemer-Web-Template/).
 
 *This is just a hobby project so it is not perfect but it gets the job done!*
 
